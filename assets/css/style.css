@@ -6,6 +6,7 @@
 }
 
 
+
 body{
     font-family: Roboto;
     color:#777777;
@@ -79,8 +80,16 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+.content-inside{
+    padding:20px;
+    padding-bottom:50px;
+}
 
 /*Footer*/
+.footer{
+    height: 50px;
+    margin-top: -50px;
+}
 .footer-outer {
     background: #171a1a;
     width: 100%;
@@ -89,7 +98,7 @@ p {
 div{
     display:block;
 }
-.copyright {
+.footer-info {
     max-width: 920px;
     margin-top: 0;
     margin-right: auto;
@@ -107,7 +116,7 @@ div{
     padding: 0;
     margin: 0;
 }
-.copyright ul li {
+.footer-info ul li {
     display: inline-block;
 }
 a {
@@ -116,15 +125,20 @@ a {
     list-style: none;
     text-decoration: none;
 }
-.copyright ul li a {
+.footer-info ul li a {
     display: inline-block;
     text-decoration: none;
     color: #c4bbbb;
     display: block;
     padding-right: 12px;
 }
-a.copy-right {
+a.opening-hours {
     float: right;
     margin-top: -33px;
     cursor: pointer;
+    display:block;
+}
+.float-right{
+    display: block;
+    float:right;
 }
