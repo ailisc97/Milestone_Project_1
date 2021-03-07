@@ -5,15 +5,20 @@
     border:0;
 }
 
-
+html,body{
+    height:100%;
+}
 
 body{
     font-family: Roboto;
     color:#777777;
+    display:flex;
+    flex-direction: column;
 }
 .header {
     border-bottom: 1px solid #1e7e34;
     margin-bottom: 1.5rem;
+    
 }
 h2{
     font-family: Roboto;
@@ -41,6 +46,8 @@ h2{
     font-size: 110%;
     list-style-type: none;
     letter-spacing: 4px;
+    float:right;
+    
 }
 
 
@@ -64,7 +71,7 @@ h2{
 }
 p {
     margin: 0;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 14px;
     line-height: 22px;
     float: left!important;
@@ -75,20 +82,19 @@ p {
 }
 p {
     display: block;
-    margin-block-start: 1em;
+    /*margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    margin-inline-end: 0px;*/
 }
-.content-inside{
-    padding:20px;
-    padding-bottom:50px;
+.content{
+    flex: 1 0 auto;
 }
 
 /*Footer*/
+
 .footer{
-    height: 50px;
-    margin-top: -50px;
+    flex-shrink:0;
 }
 .footer-outer {
     background: #171a1a;
@@ -110,13 +116,14 @@ div{
     padding-left: 30px;
     background-color: transparent;
 }
-.specer {
+/*.specer {
     clear: both;
     display: block;
     padding: 0;
     margin: 0;
 }
-.footer-info ul li {
+*/
+.footer-info  li {
     display: inline-block;
 }
 a {
@@ -125,20 +132,32 @@ a {
     list-style: none;
     text-decoration: none;
 }
-.footer-info ul li a {
+/*.footer-info ul li a {
     display: inline-block;
     text-decoration: none;
     color: #c4bbbb;
     display: block;
     padding-right: 12px;
 }
-a.opening-hours {
+*/
+/*a.opening-hours {
     float: right;
     margin-top: -33px;
     cursor: pointer;
-    display:block;
 }
-.float-right{
-    display: block;
-    float:right;
+*/
+/* .float-right{
+    display: inline-block;
+   float:none;
+   position:right;
+} */
+.right-footer{
+    width:50%;
+    display: inline-block;
+    padding-left: 25%;
+}
+.left-footer{
+    width:50%;
+    float:left;
+    padding-left: 10%;
 }
