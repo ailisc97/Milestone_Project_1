@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+body{
+    font-family: Roboto;
+    background-color:#777777;
+}
+#logo{
+    float: left; 
+    font-size: 1rem;
+    margin-left: 1rem;
+}
+#logo img{
+    float: left; 
+    border-radius: 8px;
+    margin-left: 1rem;
+}
+li {
+  display: inline;
+}
