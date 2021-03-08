@@ -94,15 +94,23 @@ p {
 /* Middle Part */
     /*image of the sports building on index.html */
     .about-us img{
-        height:25rem;
+        height:20rem;
         width: 25%;
         background: no-repeat center center;
-        padding-left:10%;
+        padding-left:0%;
         padding-top:2%;
+        
         }
-    
-    .about-us{
-        display:inline-block;
+      .about-us h1 img{
+       display:inline-block;
+    }
+    .about-us h1{
+        float:center;
+        padding-left: 25%;
+    }
+    .about-us b{
+        float:center;
+        padding-right:50%;
     }
     
     .about-us-title h1{
