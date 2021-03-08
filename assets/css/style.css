@@ -94,17 +94,17 @@ p {
 /* Middle Part */
     /*image of the sports building on index.html */
     .about-us img{
-        height:20rem;
+       height:20rem;
         width: 25%;
         background: no-repeat center center;
         padding-left:0%;
         padding-top:2%;
         
         }
-      .about-us h1 img{
+      /*.about-us h1 img{
        display:inline-block;
-    }
-    .about-us h1{
+    }*/
+    .about-us h2{
         float:center;
         padding-left: 25%;
     }
@@ -113,12 +113,12 @@ p {
         padding-right:50%;
     }
     
-    .about-us-title h1{
+    .about-us-title h2{
             font-family: 'Roboto',sans-serif;
     font-size: 16px!important;
     font-weight: bold;
     margin: 0;
-    padding: 5px 0 5px 0;
+   /* padding: 5px 0 5px 0;*/
     margin-left: 8px;
     line-height: 22px;
     color: #daa206;
@@ -126,6 +126,27 @@ p {
     border-bottom: 3px solid aqua;
     margin-bottom: 1.5rem;
     }
+
+  
+    
+.my-button {
+    display: inline-block;
+    margin: 5px; /* space between buttons */
+    background: #b06f97; /* background color */
+    color: #333; /* text color */
+    font-size: 1.5em;
+    font-family: ‘Roboto’, serif;
+    font-style: italic;
+    border-radius: 50px; /* rounded corners */
+    padding: 8px 16px; /* space around text */
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+.my-button:hover {
+    background: #666;
+    color: #c1e1e0;
+}
 /*Footer*/
 
 .footer{
