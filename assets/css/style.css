@@ -78,9 +78,9 @@ h2{
 p {
     margin: 0;
     font-family: 'Roboto', sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 22px;
-    float: left!important;
+    /*float: left!important;*/
     padding-top: 0px;
     padding-right: 0;
     padding-bottom: 0px;
@@ -157,14 +157,21 @@ display: block;
   width: 50%;
 }
 
+.swimming-aboutus p{
+    text-align:center;
+}
 
 .swimming-aboutus h2{
     text-align: center;
 }
 
+
 .my-swim-button{
-       display: inline-block;
- 
+    display: inline-block;
+    margin-right:62%;
+    margin-left:38%;
+    width:25%;
+    text-align: center;
     background: #42033D; /* background color */
     color: #c1e1e0; /* text color */
     font-size: 1.5em;
@@ -180,7 +187,9 @@ display: block;
     background: #71a9f7;
     color: #c1e1e0;
 }
-
+.basketball-aboutus p{
+    text-align:center;
+}
 .basketball-aboutus h2{
     text-align: center;
 }
@@ -193,8 +202,11 @@ display: block;
   height:25%
 }
 .my-basketball-button{
-      display: inline-block;
-    
+    display: inline-block;
+    margin-right:62%;
+    margin-left:38%;
+    width:25%;
+    text-align: center;
     background: #42033D; /* background color */
     color: #c1e1e0; /* text color */
     font-size: 1.5em;
