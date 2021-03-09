@@ -11,14 +11,16 @@ html,body{
 
 body{
     font-family: Roboto;
-    color:#777777;
+    color:#020122;
+    background-color: #73ba9b;
     display:flex;
     flex-direction: column;
 }
 /* Header */
 .header {
-    border-bottom: 1px solid aqua;
+    border-bottom: 1px solid #42033D;
     margin-bottom: 1.5rem;
+    background-color: #736f72;
     
 }
 
@@ -26,7 +28,7 @@ h2{
     font-family: Roboto;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color:#555555;
+    color:#020122;
 }
 #logo-img, #title{
     display: inline;
@@ -36,7 +38,7 @@ h2{
      height: 5rem;
     max-width: 5rem;
     border-radius: 0.625rem;
-    border: 1px solid aqua;
+    border: 1px solid #42033D;
 }
 #logo{
     float: left; 
@@ -52,7 +54,7 @@ h2{
     
 }
 #title a:hover{
-    border-bottom: 1px solid aqua;
+    border-bottom: 1px solid #42033D;
 }
 
 #logo, #menu{
@@ -71,7 +73,7 @@ h2{
 }
 
 #menu a:hover {
-    border-bottom: 1px solid aqua;
+    border-bottom: 1px solid #42033D;
 }
 p {
     margin: 0;
@@ -99,11 +101,11 @@ p {
         background: no-repeat center center;
         padding-left:0%;
         padding-top:2%;
+        float:left;
+        
         
         }
-      /*.about-us h1 img{
-       display:inline-block;
-    }*/
+      
     .about-us h2{
         float:center;
         padding-left: 25%;
@@ -123,7 +125,7 @@ p {
     line-height: 22px;
     color: #daa206;
     display: inline;
-    border-bottom: 3px solid aqua;
+    border-bottom: 3px solid #42033D;
     margin-bottom: 1.5rem;
     }
 
@@ -131,12 +133,13 @@ p {
     
 .my-button {
     display: inline-block;
+    
     margin: 5px; /* space between buttons */
-    background: #b06f97; /* background color */
-    color: #333; /* text color */
+    background: #42033D; /* background color */
+    color: #c1e1e0; /* text color */
     font-size: 1.5em;
-    font-family: ‘Roboto’, serif;
-    font-style: italic;
+    font-family: ‘Roboto’;
+    font-style: bold;
     border-radius: 50px; /* rounded corners */
     padding: 8px 16px; /* space around text */
     -moz-transition: all 0.2s;
@@ -144,13 +147,74 @@ p {
     transition: all 0.2s;
 }
 .my-button:hover {
-    background: #666;
+    background: #71a9f7;
+    color: #c1e1e0;
+}
+.swimming-aboutus img{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.swimming-aboutus h2{
+    text-align: center;
+}
+
+.my-swim-button{
+       display: inline-block;
+    
+    background: #42033D; /* background color */
+    color: #c1e1e0; /* text color */
+    font-size: 1.5em;
+    font-family: ‘Roboto’;
+    font-style: bold;
+    border-radius: 50px; /* rounded corners */
+    padding: 8px 16px; /* space around text */
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+.my-swim-button:hover {
+    background: #71a9f7;
+    color: #c1e1e0;
+}
+
+.basketball-aboutus h2{
+    text-align: center;
+}
+
+.basketball-aboutus img{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height:25%
+}
+.my-basketball-button{
+      display: inline-block;
+    
+    background: #42033D; /* background color */
+    color: #c1e1e0; /* text color */
+    font-size: 1.5em;
+    font-family: ‘Roboto’;
+    font-style: bold;
+    border-radius: 50px; /* rounded corners */
+    padding: 8px 16px; /* space around text */
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+.my-basketball-button:hover {
+    background: #71a9f7;
     color: #c1e1e0;
 }
 /*Footer*/
 
 .footer{
     flex-shrink:0;
+     background-color: #736f72;
 }
 .footer-outer {
     background: #171a1a;
@@ -177,7 +241,7 @@ div{
     display: inline-block;
 }
 .address-footer{
-    color:aqua;
+    color:#42033D;
 }
 
 .right-footer{
@@ -199,10 +263,10 @@ div{
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #777777;
+    color: #020122;
 }
 .fab:hover{
-    color:aqua;
+    color:#42033D;
 }
 .left-footer{
     width:33%;
@@ -211,5 +275,5 @@ div{
 }
 
 .left-footer a:hover{
-    color:aqua;
+    color:#42033D;
 }
