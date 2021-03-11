@@ -30,6 +30,9 @@ h2 {
     text-align:center;
     text-decoration: underline;
 }
+h4{
+    text-decoration: underline;
+}
 
 p {
     margin: 0;
@@ -49,7 +52,13 @@ p {
 }
 .swimming-times{
     padding-top:4%
-    
+}
+.swimming-full-width-top{
+    width: 100%;
+}
+.swimming-full-width{
+    width: 100%;
+    padding-top:4%;
 }
 
 /*Home Page*/
