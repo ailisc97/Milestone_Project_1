@@ -59,10 +59,11 @@ p {
 .swimming-full-width{
     width: 100%;
     padding-top:4%;
+    padding-bottom: 4%;
 }
 .team-swimming{
     width:100%;
-    height: 50%;
+    /* height:50% */
     object-fit:cover;
 }
 .team-row{
@@ -124,13 +125,13 @@ p {
       
     }
     .social-links a {
-        padding: 0 .6rem;
+        padding: .6rem;
     }
 }
-@media (max-width:769px){
+@media (min-width:769px){
 .team-swimming{
     width:100%;
-    /*height: 50%;/*
+    height:50%;
     object-fit:cover;
 }
 }
