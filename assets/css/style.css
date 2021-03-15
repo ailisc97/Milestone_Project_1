@@ -44,6 +44,19 @@ p {
     display: block;
     color: #020122;
 }
+/*Home Page*/
+.right {
+    float: right;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.info-text {
+    padding-top: 2rem;
+}
+
 
 /*Swimming Page*/
 
@@ -70,21 +83,23 @@ p {
     display:inline;
 }
 
+/* Images.html */
+    .carousel-item{
+     width: auto;
+  height: 630px;
+  max-height:630px;
+}   
 
-
-/*Home Page*/
-.right {
-    float: right;
+.results p{
+    text-align: center;
+    font-size: 1.25rem;
+    text-decoration: underline;
 }
-
-.full-width {
-    width: 100%;
+.results ul{
+    text-align:center;
+    display:inline;
+    font-size:1.25rem;
 }
-
-.info-text {
-    padding-top: 2rem;
-}
-
 
 /*Footer*/
 .footer {
@@ -134,4 +149,12 @@ p {
     height:50%;
     object-fit:cover;
 }
+}
+/* Carousel for the Swimming */
+@media (max-width:767px){
+     .carousel-item{
+     width: auto;
+  height: 300px;
+  max-height:300px;
+}   
 }
