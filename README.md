@@ -183,6 +183,56 @@ For full side PDF's of the wireframes, please click the links below
 
 * [Contact Page-Mobile Wireframe](assets/wireframes/home.pdf)
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 ### Limitations
-Due to no JavaScript functionality, apart from Bootstraps(JS/JQuery) used for the Modal Form as outlined in the Frameworks Libraries and 
-Programs Used section, the contact forms will not store data or send email requests.
+Not having JavaScript funcationality in my website, the form on Contact.html wont be saved.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+## Features
+ 
+### Existing Features
+- Contact Form - This can be completed on the contact.html page and used in order to contact the club with any queries users may have.
+- Carousel Gallery - There are 2 carousel sliders within the Website. Both of the carousels are on the Gallary page. One to show off the swimming competition and another to show off the childrens basketball match.
+
+### Features Left to Implement
+- Users would like to have a forum incorporated into the Website. This feature was not implemented as part of the initial release but will be addressed in a future.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+## Technologies
+  
+* HTML
+	* This project uses HTML as the main language used to complete the structure of the Website.
+* CSS
+	* This project uses custom written CSS to style the Website.
+* [Bootstrap](https://getbootstrap.com/)
+	* The Bootstrap framework is used throughout this website for layouts and styling. The car
+	* This has also been used to import JavaScript/Query used for the pop up Event booking modal
+* [Font Awesome](https://fontawesome.com/)
+	* Font awesome Icons are used for the Social media links contained in the Footer section of the website.
+* [Google Fonts](https://fonts.google.com/)
+	* Google fonts are used throughout the project to import the *Libre Baskerville* and *Cabin* fonts.
+* [Visual Studio Code](https://code.visualstudio.com/)
+	* VS Code is the Integrated Development Environment used to develop the Website.
+* [GitHub](https://github.com/)
+	* GithHub is the hosting site used to store the source code for the Website and [Git Pages](https://pages.github.com/) is used for the deployment of the live site.
+* [Git](https://git-scm.com/)
+	* Git is used as version control software to commit and push code to the GitHub repository where the source code is stored.
+* [TinyJPG](https://tinyjpg.com/)
+	* TinyJPG is used to reduce the file sizes of images before being deployed to reduce storage and bandwith.
+* [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+	* Google chromes built in developer tools are used to inspect page elements and help debug issues with the site layout and test different CSS styles.
+* [balsamiq Wireframes](https://balsamiq.com/wireframes/)
+	* This was used to create wireframes for 'The Skeleton Plane' stage of UX design.
+* [MS PAINT](https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9)
+    * The dropper tool is this program was used against the Site logo to determine the exact shade of green to be used.
+* [CSS Generator](https://cssgenerator.org/rgba-and-hex-color-generator.html)
+    * This was used to convert the RGBA colour for the site to Hex. 
+* [Favicon](https://favicon.io/)
+    * Favicon.io was used to make the site favicon 
+* [Techsini](http://techsini.com/multi-mockup/index.php)
+    * tecnisih.com Multi Device Website Mockup Generator was used to create the Mock up image in this README
+* [placehold.it](https://placehold.it)
+    * placehold.it was used to display the colours shown in the Color Scheme section.
