@@ -11,7 +11,6 @@
     * [Typography](#Typography)
     * [Imagery](#Imagery)
     * [Wireframes](#Wireframes)
-    * [Differences to Design](Differences-to-Design)
 * [Limitations](#Limitations)
 - [Features](#Features)
     * [Existing Features](#Existing-Features)
@@ -50,7 +49,7 @@ The client requested to show the muliple different classes in the facility. The 
 Having the Gallery was a great way to show off the most recent championships with the different teams. The Contact page was a necessity for the website and it was essential for the users who had different questions about the multiple different classes avilable.
 
 
-*** 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ## User Experience Design
 
 ### User stories
@@ -173,7 +172,7 @@ For full side PDF's of the wireframes, please click the links below
 * [Gallery Page-Desktop Wireframe](assets/wireframes/home.pdf)
 
 * [Contact Page-Desktop Wireframe](assets/wireframes/home.pdf)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 * [Home Page-Mobile Wireframe](assets/wireframes/home.pdf)
 
 * [About Page-Mobile Wireframe](assets/wireframes/about.pdf)
@@ -183,3 +182,7 @@ For full side PDF's of the wireframes, please click the links below
 * [Gallery Page-Mobile Wireframe](assets/wireframes/home.pdf)
 
 * [Contact Page-Mobile Wireframe](assets/wireframes/home.pdf)
+
+### Limitations
+Due to no JavaScript functionality, apart from Bootstraps(JS/JQuery) used for the Modal Form as outlined in the Frameworks Libraries and 
+Programs Used section, the contact forms will not store data or send email requests.
