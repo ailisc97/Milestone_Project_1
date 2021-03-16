@@ -130,5 +130,56 @@ I choose these colours from a website called Coolors. The website helped choose 
 
 ####  Typography
 The font on the website is **Roboto**. This font was off Google Fonts. The font colours for the headings and paragraphs are Xiketic ![020122]. The font colour in the Navigation Bar is White ![F8F9FA].
-The font colour in the Footer is a mixture of Xiketic ![020122] and the headings are a Russian Violet ![#42033D]
-The headers on all pages throughout the Website are using the **Libre Baskerville** font while the main text is using the **Cabin** font.
+The font colour in the Footer is a mixture of Xiketic ![020122] and the headings are a Russian Violet ![#42033D].
+
+#### Imagery
+The Home page has three images, the first is an image of the sport centre building at a distance. The second image is the swimming pool. The third image is of the outdoor basketball court.
+The Swimming page has an image of a race and under that an image of pool arobics. There is also images of the team members.
+The Basketball page has an image of the outdoor basketball court and and image of the childrens team in the indoor basketball court. There is also images of the team members.
+The Gallery has two carousels. The first carousel holds images of a swimming competition and the second carousel holds images of the childrens basketball game.
+
+All images were taken off Unsplash.com. Which is a website for stock images. It was important to get stock images as I might not have rights over google images.
+
+#### Wireframes
+Home Page-Desktop<br>
+![Home Page Wireframe](assets/wireframes/home-wireframe.JPG)<br>
+Swimming Page-Desktop<br>
+![About Page Wireframe](assets/wireframes/about-wireframe.JPG)<br>
+Basketball Page-Desktop<br>
+![Events Page Wireframe](assets/wireframes/events-wireframe.jpg)<br>
+Gallery Page-Desktop<br>
+![Gallery Page Wireframe](assets/wireframes/gallery-wireframe.JPG)<br>
+Contact Page-Desktop<br>
+![Contact Page Wireframe](assets/wireframes/contact-wireframe.JPG)<br>
+
+Home Page-Mobile<br>
+![Home Page Wireframe](assets/wireframes/home-wireframe.JPG)<br>
+Swimming Page-Mobile<br>
+![About Page Wireframe](assets/wireframes/about-wireframe.JPG)<br>
+Basketball Page-Mobile<br>
+![Events Page Wireframe](assets/wireframes/events-wireframe.jpg)<br>
+Gallery Page-Mobile<br>
+![Gallery Page Wireframe](assets/wireframes/gallery-wireframe.JPG)<br>
+Contact Page-Mobile<br>
+![Contact Page Wireframe](assets/wireframes/contact-wireframe.JPG)<br>
+
+For full side PDF's of the wireframes, please click the links below
+* [Home Page-Desktop Wireframe](assets/wireframes/home.pdf)
+
+* [About Page-Desktop Wireframe](assets/wireframes/about.pdf)
+
+* [Events Page-Desktop Wireframe](assets/wireframes/events.pdf)
+
+* [Gallery Page-Desktop Wireframe](assets/wireframes/home.pdf)
+
+* [Contact Page-Desktop Wireframe](assets/wireframes/home.pdf)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+* [Home Page-Mobile Wireframe](assets/wireframes/home.pdf)
+
+* [About Page-Mobile Wireframe](assets/wireframes/about.pdf)
+
+* [Events Page-Mobile Wireframe](assets/wireframes/events.pdf)
+
+* [Gallery Page-Mobile Wireframe](assets/wireframes/home.pdf)
+
+* [Contact Page-Mobile Wireframe](assets/wireframes/home.pdf)
