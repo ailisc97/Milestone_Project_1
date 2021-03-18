@@ -141,47 +141,47 @@ All images were taken off Unsplash.com. Which is a website for stock images. It 
 
 #### Wireframes
 Home Page-Desktop<br>
-![Home Page Wireframe](assets/wireframes/home-wireframe.JPG)<br>
+![Home Page Wireframe]()<br>
 Swimming Page-Desktop<br>
-![About Page Wireframe](assets/wireframes/about-wireframe.JPG)<br>
+![Swimming Page Wireframe]()<br>
 Basketball Page-Desktop<br>
-![Events Page Wireframe](assets/wireframes/events-wireframe.jpg)<br>
+![Basketball Page Wireframe]()<br>
 Gallery Page-Desktop<br>
-![Gallery Page Wireframe](assets/wireframes/gallery-wireframe.JPG)<br>
+![Gallery Page Wireframe]()<br>
 Contact Page-Desktop<br>
-![Contact Page Wireframe](assets/wireframes/contact-wireframe.JPG)<br>
+![Contact Page Wireframe]()<br>
 
 Home Page-Mobile<br>
 ![Home Page Wireframe](assets/wireframes/home-wireframe.JPG)<br>
 Swimming Page-Mobile<br>
-![About Page Wireframe](assets/wireframes/about-wireframe.JPG)<br>
+![Swimming Page Wireframe]()<br>
 Basketball Page-Mobile<br>
-![Events Page Wireframe](assets/wireframes/events-wireframe.jpg)<br>
+![Basketball Page Wireframe]()<br>
 Gallery Page-Mobile<br>
-![Gallery Page Wireframe](assets/wireframes/gallery-wireframe.JPG)<br>
+![Gallery Page Wireframe]()<br>
 Contact Page-Mobile<br>
-![Contact Page Wireframe](assets/wireframes/contact-wireframe.JPG)<br>
+![Contact Page Wireframe]()<br>
 
 For full side PDF's of the wireframes, please click the links below
 * [Home Page-Desktop Wireframe](assets/wireframes/home.pdf)
 
-* [About Page-Desktop Wireframe](assets/wireframes/about.pdf)
+* [Swimming Page-Desktop Wireframe]()
 
-* [Events Page-Desktop Wireframe](assets/wireframes/events.pdf)
+* [Swimming Page-Desktop Wireframe]()
 
-* [Gallery Page-Desktop Wireframe](assets/wireframes/home.pdf)
+* [Basketball Page-Desktop Wireframe]()
 
-* [Contact Page-Desktop Wireframe](assets/wireframes/home.pdf)
+* [Contact Page-Desktop Wireframe]()
 
-* [Home Page-Mobile Wireframe](assets/wireframes/home.pdf)
+* [Home Page-Mobile Wireframe]()
 
-* [About Page-Mobile Wireframe](assets/wireframes/about.pdf)
+* [Swimming Page-Mobile Wireframe]()
 
-* [Events Page-Mobile Wireframe](assets/wireframes/events.pdf)
+* [Basketball Page-Mobile Wireframe]()
 
-* [Gallery Page-Mobile Wireframe](assets/wireframes/home.pdf)
+* [Gallery Page-Mobile Wireframe]()
 
-* [Contact Page-Mobile Wireframe](assets/wireframes/home.pdf)
+* [Contact Page-Mobile Wireframe]()
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
