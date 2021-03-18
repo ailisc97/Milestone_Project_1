@@ -247,14 +247,14 @@ Elements shouldnt overlap divs. Elements should be on the screen at all sizes. A
 
 In the Navigation bar the links should take the user to the correct html page. The Home page will be redirected to index.html.
 
-On the Contact.html page the form must not be submitted untill the required information is inputted into the fields.
+On the Contact.html page the form must not be submitted until the required information is inputted into the fields.
 
 Validation of inclusion for all features included in the Structure of the Website / Wireframes must be performed.
 
-The live Project can be found [here](https://daisy-mcg.github.io/MilestoneProject-1/index.html).</br>
+The live Project can be found [here].</br>
 #### High Level Test Cases 
-![Test Cases](assets/images/readme-images/high-level-tests.jpg)
+![Test Cases]()
 
 #### Out of Scope  
-
-* Testing form validation for phone number is out of scope. No Reg-Ex has been implemented so this will take a string value. 
+* Cant test phone number or email from the contact-us form.
+* There is no way to save forms. 
