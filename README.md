@@ -257,4 +257,49 @@ The live Project can be found [here].</br>
 
 #### Out of Scope  
 * Cant test phone number or email from the contact-us form.
-* There is no way to save forms. 
+* There is no way to save forms.
+
+### Test Results
+![Results]()<br>
+Testing results can be found [here](assets/test-results/test-results.xlsx)<br>
+Please note these results are a .xlsx file and will require excel to open the file.<br>
+All Pages were run through the [W3C HTML Validator](https://validator.w3.org/), there was no errors.<br>
+CSS Stylesheet was run through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri),there was no errors.<br>
+
+* As a First Time user, I want to easily and quickly navigate the website to learn more about the Leisure Centre.-Testing was completed
+* As a First Time user, I want to easily and quickly navigate the website to check what sports are played in this Sport Centre.
+* As a First Time user, I want to view the website and content clearly on my mobile device.
+* As a First Time user, I want to find ways to follow the Leisure Centre on different social media platforms.
+* As a First Time user, I want to know the loaction and opening hours of the Centre.
+
+* As a Returning user, I want to check the times for any of the swimming or basketball classes.
+* As a Returning user, I want to contact the centre for any questions I have.
+* As a Returning user, I want to know which coach teaches what class.
+
+* As a Frequent user, I want to check to see the results and pictures of the new competitions.
+* As a Frequent user, I want to check to see when the next swimming races are on.
+* As a Frequent user, I want to sign up to the Newsletter so I can always be in the loop.
+
+### Issues and Resolutions to issues found during testing
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+## Deployment
+
+### Project Creation
+
+### Using Github Pages
+
+### Run Locally
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+## Credits
+
+### Code
+
+### Content
+
+### Media
+
+### Acknowledgements
