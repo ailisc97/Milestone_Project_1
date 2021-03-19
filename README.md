@@ -153,7 +153,7 @@ Basketball Page-Desktop<br>
 Gallery Page-Desktop<br>
 ![Gallery Page Wireframe](assets/wireframes/Gallery-Desktop.PNG)<br>
 Contact Page-Desktop<br>
-![Contact Page Wireframe](assets/wireframes/Contact-Desktop.PNG)<br>
+![Contact Page Wireframe](assets/wireframes/Conact-Desktop.PNG)<br>
 
 Home Page-Mobile<br>
 ![Home Page Wireframe](assets/wireframes/home-wireframe.JPG)<br>
@@ -175,7 +175,7 @@ For full side PDF's of the wireframes, please click the links below
 
 * [Gallery Page-Desktop Wireframe](assets/wireframes/Gallery-Desktop.PNG)
 
-* [Contact Page-Desktop Wireframe](assets/wireframes/Contact-Desktop.PNG)
+* [Contact Page-Desktop Wireframe](assets/wireframes/Conact-Desktop.PNG)
 
 * [Home Page-Mobile Wireframe]()
 
