@@ -166,27 +166,6 @@ Gallery Page-Mobile<br>
 Contact Page-Mobile<br>
 ![Contact Page Wireframe]()<br>
 
-For full side PDF's of the wireframes, please click the links below
-* [Home Page-Desktop Wireframe](assets/wireframes/Home-Desktop.PNG)
-
-* [Swimming Page-Desktop Wireframe](assets/wireframes/Swimming-Desktop.PNG)
-
-* [Basketball Page-Desktop Wireframe](assets/wireframes/Basketball-Desktop.PNG)
-
-* [Gallery Page-Desktop Wireframe](assets/wireframes/Gallery-Desktop.PNG)
-
-* [Contact Page-Desktop Wireframe](assets/wireframes/Conact-Desktop.PNG)
-
-* [Home Page-Mobile Wireframe]()
-
-* [Swimming Page-Mobile Wireframe]()
-
-* [Basketball Page-Mobile Wireframe]()
-
-* [Gallery Page-Mobile Wireframe]()
-
-* [Contact Page-Mobile Wireframe]()
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 ### Limitations
