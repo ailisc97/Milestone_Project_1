@@ -255,7 +255,7 @@ Validation of inclusion for all features included in the Structure of the Websit
 
 The live Project can be found [here](https://ailisc97.github.io/Milestone_Project_1/).</br>
 #### High Level Test Cases 
-![Test Cases](assets/images/readme-images/testing/Test-Description.PNG)
+![Test Cases](assets/images/readme_images/testing/Test-Description.PNG)
 
 #### Out of Scope  
 * Cant test phone number or email from the contact-us form.
