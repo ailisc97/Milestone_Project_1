@@ -145,15 +145,15 @@ All images were taken off Unsplash.com. Which is a website for stock images. It 
 
 #### Wireframes
 Home Page-Desktop<br>
-![Home Page Wireframe]()<br>
+![Home Page Wireframe](assets/wireframes/Home-Desktop.PNG)<br>
 Swimming Page-Desktop<br>
-![Swimming Page Wireframe]()<br>
+![Swimming Page Wireframe](assets/wireframes/Swimming-Desktop.PNG)<br>
 Basketball Page-Desktop<br>
-![Basketball Page Wireframe]()<br>
+![Basketball Page Wireframe](assets/wireframes/Basketball-Desktop.PNG)<br>
 Gallery Page-Desktop<br>
-![Gallery Page Wireframe]()<br>
+![Gallery Page Wireframe](assets/wireframes/Gallery-Desktop.PNG)<br>
 Contact Page-Desktop<br>
-![Contact Page Wireframe]()<br>
+![Contact Page Wireframe](assets/wireframes/Contact-Desktop.PNG)<br>
 
 Home Page-Mobile<br>
 ![Home Page Wireframe](assets/wireframes/home-wireframe.JPG)<br>
@@ -167,15 +167,15 @@ Contact Page-Mobile<br>
 ![Contact Page Wireframe]()<br>
 
 For full side PDF's of the wireframes, please click the links below
-* [Home Page-Desktop Wireframe](assets/wireframes/home.pdf)
+* [Home Page-Desktop Wireframe](assets/wireframes/Home-Desktop.PNG)
 
-* [Swimming Page-Desktop Wireframe]()
+* [Swimming Page-Desktop Wireframe](assets/wireframes/Swimming-Desktop.PNG)
 
-* [Swimming Page-Desktop Wireframe]()
+* [Basketball Page-Desktop Wireframe](assets/wireframes/Basketball-Desktop.PNG)
 
-* [Basketball Page-Desktop Wireframe]()
+* [Gallery Page-Desktop Wireframe](assets/wireframes/Gallery-Desktop.PNG)
 
-* [Contact Page-Desktop Wireframe]()
+* [Contact Page-Desktop Wireframe](assets/wireframes/Contact-Desktop.PNG)
 
 * [Home Page-Mobile Wireframe]()
 
