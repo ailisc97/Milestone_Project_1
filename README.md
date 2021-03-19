@@ -156,15 +156,15 @@ Contact Page-Desktop<br>
 ![Contact Page Wireframe](assets/wireframes/Conact-Desktop.PNG)<br>
 
 Home Page-Mobile<br>
-![Home Page Wireframe](assets/wireframes/home-wireframe.JPG)<br>
+![Home Page Wireframe](assets/wireframes/Home-Phone.PNG)<br>
 Swimming Page-Mobile<br>
-![Swimming Page Wireframe]()<br>
+![Swimming Page Wireframe](assets/wireframes/Swimming-Phone.PNG)<br>
 Basketball Page-Mobile<br>
-![Basketball Page Wireframe]()<br>
+![Basketball Page Wireframe](assets/wireframes/Basketball-Phone.PNG)<br>
 Gallery Page-Mobile<br>
-![Gallery Page Wireframe]()<br>
+![Gallery Page Wireframe](assets/wireframes/Gallery-Phone.PNG)<br>
 Contact Page-Mobile<br>
-![Contact Page Wireframe]()<br>
+![Contact Page Wireframe](assets/wireframes/Contact-Phone.PNG)<br>
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
