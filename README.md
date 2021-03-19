@@ -125,13 +125,13 @@ The purpose of this Page is to fulfill user stories:
 
 ### Design
 #### Colour Scheme
-The main colour used is Ocean Green![#73BA9B]. This is used as the background color.
-The secondary colours are Russian Violet![#42033D] as an accent colour. Xiketic![#020122] the colour of the words. A shade of dark grey ![#343A40} on the Navigation Bar.
+The main colour used is Ocean Green (#73BA9B). This is used as the background color.
+The secondary colours are Russian Violet (#42033D) as an accent colour. Xiketic (#020122) the colour of the words. A shade of dark grey (#343A40) on the Navigation Bar.
 I choose these colours from a website called Coolors. The website helped choose the colours that would go together so I had a great palette to work from.
 
 ####  Typography
-The font on the website is **Roboto**. This font was off Google Fonts. The font colours for the headings and paragraphs are Xiketic ![020122]. The font colour in the Navigation Bar is White ![F8F9FA].
-The font colour in the Footer is a mixture of Xiketic ![020122] and the headings are a Russian Violet ![#42033D].
+The font on the website is **Roboto**. This font was off Google Fonts. The font colours for the headings and paragraphs are Xiketic (#020122). The font colour in the Navigation Bar is White (#F8F9FA).
+The font colour in the Footer is a mixture of Xiketic (#020122)and the headings are a Russian Violet (#42033D).
 
 #### Imagery
 The Home page has three images, the first is an image of the sport centre building at a distance. The second image is the swimming pool. The third image is of the outdoor basketball court.
@@ -199,8 +199,8 @@ Not having JavaScript funcationality in my website, the form on Contact.html won
 - Carousel Gallery - There are 2 carousel sliders within the Website. Both of the carousels are on the Gallary page. One to show off the swimming competition and another to show off the childrens basketball match.
 
 ### Features Left to Implement
-- Users would like to have a forum incorporated into the Website. This feature was not implemented as part of the initial release but will be addressed in a future.
-
+-It would be great for the Users details to be save into the website.
+-It would also be nice to have the social media icons linked to an actual page, as this is a fiction based website, this was not possible.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 ## Technologies
@@ -253,7 +253,7 @@ On the Contact.html page the form must not be submitted until the required infor
 
 Validation of inclusion for all features included in the Structure of the Website / Wireframes must be performed.
 
-The live Project can be found [here].</br>
+The live Project can be found [here](https://ailisc97.github.io/Milestone_Project_1/).</br>
 #### High Level Test Cases 
 ![Test Cases](assets/images/readme-images/testing/Test-Description.PNG)
 
@@ -264,27 +264,27 @@ The live Project can be found [here].</br>
 ### Test Results
 ![Results]()<br>
 Testing results can be found [here](assets/test-results/test-results.xlsx)<br>
-Please note these results are a .xlsx file and will require excel to open the file.<br>
+This results are a .xls file and will need excel to open. <br>
 All Pages were run through the [W3C HTML Validator](https://validator.w3.org/), there was no errors.<br>
 CSS Stylesheet was run through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri),there was no errors.<br>
 
-* As a First Time user, I want to easily and quickly navigate the website to learn more about the Leisure Centre.-Testing was completed
-* As a First Time user, I want to easily and quickly navigate the website to check what sports are played in this Sport Centre.
-* As a First Time user, I want to view the website and content clearly on my mobile device.
-* As a First Time user, I want to find ways to follow the Leisure Centre on different social media platforms.
-* As a First Time user, I want to know the loaction and opening hours of the Centre.
+* As a First Time user, I want to easily and quickly navigate the website to learn more about the Leisure Centre.-Testing was completed.- Testing was done to see how easy it is to navigate the website.
+* As a First Time user, I want to easily and quickly navigate the website to check what sports are played in this Sport Centre. -Testing was done to see how easy it is to see what sports are played in this club.
+* As a First Time user, I want to view the website and content clearly on my mobile device. -Testing was done to see if it was compatable on all mobile devices.
+* As a First Time user, I want to find ways to follow the Leisure Centre on different social media platforms. -Testing was done to see if it was easy to get the social media platforms up.
+* As a First Time user, I want to know the loaction and opening hours of the Centre. - Testing was done to see how easy it was to see the location and opening hours.
 
-* As a Returning user, I want to check the times for any of the swimming or basketball classes.
-* As a Returning user, I want to contact the centre for any questions I have.
-* As a Returning user, I want to know which coach teaches what class.
+* As a Returning user, I want to check the times for any of the swimming or basketball classes. -Testing was done to see what times are the swimming and basketball classes on at. 
+* As a Returning user, I want to contact the centre for any questions I have. -Testing was done to see if questions could be sent to the leisure centre.
+* As a Returning user, I want to know which coach teaches what class. -Testing was done to see if it was easy to see what coach tought which class.
 
-* As a Frequent user, I want to check to see the results and pictures of the new competitions.
-* As a Frequent user, I want to check to see when the next swimming races are on.
-* As a Frequent user, I want to sign up to the Newsletter so I can always be in the loop.
+* As a Frequent user, I want to check to see the results and pictures of the new competitions. - Testing was done to see if the carousels showed hte pictures of the new competitions.
+* As a Frequent user, I want to check to see when the next swimming races are on. -Testing was done to see when the next swimming race is on.
+* As a Frequent user, I want to sign up to the Newsletter so I can always be in the loop. -Testing was done to see if you could sign up to a newslettter.
 
 ### Issues and Resolutions to issues found during testing
-
-
+* Griffith Park Leisure was changed to Girffith Leisure, as on Moto4 the nav bar moved over too much.
+* On images.html the second carousel had to be slightly edited as the buttons of the second carousel was controlling the first carousel, so the buttons were deleted.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ## Deployment
 
