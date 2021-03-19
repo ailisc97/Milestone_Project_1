@@ -262,9 +262,8 @@ The live Project can be found [here](https://ailisc97.github.io/Milestone_Projec
 * There is no way to save forms.
 
 ### Test Results
-![Results]()<br>
-Testing results can be found [here](assets/test-results/test-results.xlsx)<br>
-This results are a .xls file and will need excel to open. <br>
+Testing results can be found [here](assets/images/readme_images/Testing-detail.xlsx)<br>
+This results are a .xlsx file and will need excel to open. <br>
 All Pages were run through the [W3C HTML Validator](https://validator.w3.org/), there was no errors.<br>
 CSS Stylesheet was run through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri),there was no errors.<br>
 
