@@ -255,7 +255,7 @@ Validation of inclusion for all features included in the Structure of the Websit
 
 The live Project can be found [here].</br>
 #### High Level Test Cases 
-![Test Cases]()
+![Test Cases](assets/images/testing/Test-Description.PNG)
 
 #### Out of Scope  
 * Cant test phone number or email from the contact-us form.
