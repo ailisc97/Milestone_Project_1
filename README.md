@@ -223,7 +223,7 @@ Not having JavaScript funcationality in my website, the form on Contact.html won
 	* Git is used as software to commit and push code to the GitHub repository where the source code is stored.
 * [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
 	* Google chromes built in developer tools are used to inspect page elements in various different sized. It also helped debug issues and test different CSS styles.
-* [balsamiq Wireframes](https://balsamiq.com/wireframes/)
+* [Balsamiq Wireframes](https://balsamiq.com/wireframes/)
 	* This was used to create desktop and phone wireframes for UX design.
 * [Coolors](https://coolors.co/)
     *This was used to create a colour scheme that works well together.
