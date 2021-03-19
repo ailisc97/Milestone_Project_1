@@ -38,16 +38,16 @@
 
 ## Purpose
 This website was created for Milestone Project 1 in the Software Developement Course in Code Insitute.
-The languages used in this project are languages that ive learned so far in the course, HTML, CSS and User Centric Design.
+The languages used in this project are languages that I've learned so far in the course, HTML, CSS and User Centric Design.
 
-The live website can be found [here] (https://ailisc97.github.io/Milestone_Project_1/)
+The live website can be found [here](https://ailisc97.github.io/Milestone_Project_1/)
 
 ## Griffith Park Leisure Centre Responsive Website
 
-![Website Mock Up]
+![Website Mock Up] (assets/images/readme-images/screens.PNG)
 
 The Giffith Park Leisure Centre is based on an imaginary sport centre based in Dublin 4. The benefit to this website is that people can check out the two main sports (swimming and basketball) that are in this sport centre.
-The client requested to show the muliple different classes in the facility. The client requested to show off the Coaches in the sports centre and to give a little bit of a bio about the different Coaches.
+The client requested to show the muliple different classes in the facility. The client requested to show off the Coaches in the sports centre and to give a little bit of information about the different coaches.
 Having the Gallery was a great way to show off the most recent championships with the different teams. The Contact page was a necessity for the website and it was essential for the users who had different questions about the multiple different classes avilable.
 
 
@@ -125,8 +125,8 @@ The purpose of this Page is to fulfill user stories:
 
 ### Design
 #### Colour Scheme
-The main colour used is Ocean Green ![#73BA9B]. This is used as the background color.
-The secondary colours are Russian Violet ![#42033D] as an accent colour. Xiketic ![020122] the colour of the words. A shade of dark grey ![#343A40} on the Navigation Bar.
+The main colour used is Ocean Green![#73BA9B]. This is used as the background color.
+The secondary colours are Russian Violet![#42033D] as an accent colour. Xiketic![#020122] the colour of the words. A shade of dark grey ![#343A40} on the Navigation Bar.
 I choose these colours from a website called Coolors. The website helped choose the colours that would go together so I had a great palette to work from.
 
 ####  Typography
@@ -255,7 +255,7 @@ Validation of inclusion for all features included in the Structure of the Websit
 
 The live Project can be found [here].</br>
 #### High Level Test Cases 
-![Test Cases](assets/images/testing/Test-Description.PNG)
+![Test Cases](assets/images/readme-images/testing/Test-Description.PNG)
 
 #### Out of Scope  
 * Cant test phone number or email from the contact-us form.
