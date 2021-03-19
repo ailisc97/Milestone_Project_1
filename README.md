@@ -1,3 +1,5 @@
+# Milestone Project 1
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ## Table of Contents
 * [Purpose](#Purpose)
 * [User Experience Design (UX)](#User-Experience-Design)
@@ -33,12 +35,12 @@
   * [Acknowledgements](#Acknowledgements)
   * [Comments](#Comments)
 
-# Milestone Project 1
+
 ## Purpose
 This website was created for Milestone Project 1 in the Software Developement Course in Code Insitute.
 The languages used in this project are languages that ive learned so far in the course, HTML, CSS and User Centric Design.
 
-The live website can be found [here]
+The live website can be found [here] (https://ailisc97.github.io/Milestone_Project_1/)
 
 ## Griffith Park Leisure Centre Responsive Website
 
@@ -287,19 +289,41 @@ CSS Stylesheet was run through the [W3C CSS Validator](https://jigsaw.w3.org/css
 ## Deployment
 
 ### Project Creation
+I created a repository in Github and called it Milestone_Project_1, I selected to add a README into the project. When I went into the repository, I clicked the GitPod button on the top right and that opened GitPod for me. I used Git to add, commit and push all my saved work from GitPod.
+
+*git add . -This would add all the work from the different pages to the GitHub.
+*git add index.html -Would only save the work from Index.html
+*git pull - This would pull the GitHub version of my project.
+*git commit -m "MESSAGE" - This would commit the added work from git add . and leave a message beside it.
+*git push- This pushed the added work to GitHub
+*python3 -m http.server - This opened the website on the right hand side of the page.
 
 ### Using Github Pages
+1. On the GitHub [Repository:](https://github.com/ailisc97/Milestone_Project_1)
+1. Click the 'Settings' Tab on the right hand side.
+1. Click on options.
+1. Scroll Down to the Git Hub Pages Heading.
+1. Select 'main' as the source.
+1. Click the Save button.
+1. Click on the link to go to the deployed page
 
 ### Run Locally
-
+1. On the GitHub [Repository:](https://github.com/ailisc97/Milestone_Project_1)
+1. Click on the download code button, you will get options to clone the GitHub Repository or Download the Zip file.
+1. If you downloaded the zip file open the file using one of your IDE application.
+1. Or if you choice to clone the GitHub Repository, then open up a terminal and get to a directory of your choice then type in "git clone" followed by the GitHub Repository URL.
+1. The clone will be created on your loacal machine. 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ## Credits
 
 ### Code
-
+Code for the Navigation bar, carousel and the contact us form. was taken from [Bootstrap](https://getbootstrap.com/).
 ### Content
-
+Content was created by Ailis Curran, based on a fictional Leisure Centre.
 ### Media
-
+All images were taken from [Unsplash](https://unsplash.com/). Which are all stock images.
 ### Acknowledgements
+I would like to thank my mentor Spencer Barriball for all his help throughout the project. <br>
+###Comments
+README.md insperation was taken from Daisy Mc Girr. It gave me a template to complete my README, all README content is my own.
