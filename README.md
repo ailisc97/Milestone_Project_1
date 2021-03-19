@@ -125,6 +125,8 @@ The purpose of this Page is to fulfill user stories:
 
 ### Design
 #### Colour Scheme
+
+![Colours](assets/images/readme_images/coolors.PNG)
 The main colour used is Ocean Green (#73BA9B). This is used as the background color.
 The secondary colours are Russian Violet (#42033D) as an accent colour. Xiketic (#020122) the colour of the words. A shade of dark grey (#343A40) on the Navigation Bar.
 I choose these colours from a website called Coolors. The website helped choose the colours that would go together so I had a great palette to work from.
